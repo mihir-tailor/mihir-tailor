@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mihir-tailor
+- 👀 I’m interested in Full stack development, IoT, Big Data Developement and Data Analytics
+- 🌱 I’m currently learning React & MongoDB
+- 📫 How to reach me : 
+                 - 📞 +1(514)-443-2694
+                 - 📧 mihirtailor47@gmail.com
